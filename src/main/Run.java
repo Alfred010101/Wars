@@ -1,6 +1,7 @@
 
 package main;
 
+import main.exercises.DeleteOccurrences;
 import main.exercises.HighestAndLowest;
 import main.exercises.PrimesInNumbers;
 
@@ -13,6 +14,7 @@ public class Run
     public static void main(String[] args)
     {
         //HighestAndLowest.run();
-        PrimesInNumbers.run();
+        //PrimesInNumbers.run();
+        DeleteOccurrences.exec();
     }
 }
