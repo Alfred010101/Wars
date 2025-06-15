@@ -14,7 +14,7 @@ public class Run
     public static void main(String[] args)
     {
         //HighestAndLowest.run();
-        //PrimesInNumbers.run();
-        DeleteOccurrences.exec();
+        PrimesInNumbers.run();
+//        DeleteOccurrences.exec();
     }
 }
