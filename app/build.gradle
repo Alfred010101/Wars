@@ -11,6 +11,8 @@ dependencies {
 
     testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
 
+    testImplementation 'org.hamcrest:hamcrest:2.2'
+
     implementation libs.guava
 }
 
